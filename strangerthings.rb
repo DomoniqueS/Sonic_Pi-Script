@@ -1,4 +1,6 @@
 use_bpm 160
+live_loop:foo do
+  with_fx:reverb do
 
 play :c4
 sleep 0.5
